@@ -7,44 +7,45 @@ Dokumen ini mencatat perubahan dan implementasi fitur spesifik yang telah ditamb
 1. Perubahan pada lib/screens/home_screen.dart
 
     Pengubahan Navigasi Home
-![alt text](<Soal_1_Poin_1.png>)
+<img src="Soal_1_Poin_1.png" style="width: 50%;">
 
 2. Perubahan pada lib/screens/scan_screen.dart
      Custom Loading Screen di ScanScreen
 
      Spesifikasi Pesan Error
-![alt text](<Soal_2_Poin_1.png>)
+<img src="Soal_2_Poin_1.png" style="width: 50%;">
 
 3. Perubahan pada lib/screens/result_screen.dart
 
     Teks Utuh dan Navigasi Balik
-![alt text](<Soal_1_Poin_2.png>)
+<img src="Soal_1_Poin_2.png" style="width: 50%;">
 
     Konversi Widget dan Inisialisasi
 
     Fungsionalitas Pembacaan
-![alt text](<Soal_3_Poin_2_dan_3.png>)
+<img src="Soal_3_Poin_2_dan_3.png" style="width: 50%;">
 
 4. Perubahan pada pubspec.yaml
 
     Instalasi Plugin
-![alt text](<Soal_3_Poin_1.png>)
+<img src="Soal_3_Poin_1.png" style="width: 50%;">
+
 
 Hasil Implementasi
 1) Home Screen
-![alt text](Home.jpg)
+<img src="Home.jpg" style="width: 50%;">
 
 2) Text saat Loading
-![alt text](TextLoading.jpg)
+<img src="TextLoading.jpg" style="width: 50%;">
 
 3) Jika tidak diberi izin
-![alt text](Error.jpg)
+<img src="Error.jpg" style="width: 50%;">
 
 4) Scan Screen
-![alt text](Scan.jpg)
+<img src="Scan.jpg" style="width: 50%;">
 
 5) Hasil dan juga terdapat tombol home dan tts
-![alt text](HasildanTTS.jpg)
+<img src="HasildanTTS.jpg" style="width: 50%;">
 
 ## Getting Started
 
