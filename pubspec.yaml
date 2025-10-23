@@ -39,6 +39,12 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
 
+# --- Soal 3 Poin 1 Instalasi Plugin---
+# Menambahkan plugin text-to-speech di sini
+  flutter_tts: ^3.8.5 
+
+
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
