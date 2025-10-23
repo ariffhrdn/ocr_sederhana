@@ -1,6 +1,34 @@
 # ocr_sederhana
 
-A new Flutter project.
+Dokumentasi Perubahan Fitur untuk UTS (Changelog)
+
+Dokumen ini mencatat perubahan dan implementasi fitur spesifik yang telah ditambahkan ke proyek Aplikasi Pindai Teks (OCR) sesuai dengan poin-poin yang diminta.
+
+1. Perubahan pada lib/screens/home_screen.dart
+
+    Pengubahan Navigasi Home
+![alt text](<Soal 1 Poin 1.png>)
+
+2. Perubahan pada lib/screens/scan_screen.dart
+     Custom Loading Screen di ScanScreen
+
+     Spesifikasi Pesan Error
+![alt text](<Soal 2 Poin 1.png>)
+
+3. Perubahan pada lib/screens/result_screen.dart
+
+    Teks Utuh dan Navigasi Balik
+![alt text](<Soal 1 Poin 2.png>)
+
+    Konversi Widget dan Inisialisasi
+
+    Fungsionalitas Pembacaan
+![alt text](<Soal 3 Poin 2 dan 3.png>)
+
+4. Perubahan pada pubspec.yaml
+
+    Instalasi Plugin
+![alt text](<Soal 3 Poin 1.png>)
 
 ## Getting Started
 
