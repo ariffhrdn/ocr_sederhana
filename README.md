@@ -30,6 +30,22 @@ Dokumen ini mencatat perubahan dan implementasi fitur spesifik yang telah ditamb
     Instalasi Plugin
 ![alt text](<Soal_3_Poin_1.png>)
 
+Hasil Implementasi
+1) Home Screen
+![alt text](Home.jpg)
+
+2) Text saat Loading
+![alt text](TextLoading.jpg)
+
+3) Jika tidak diberi izin
+![alt text](Error.jpg)
+
+4) Scan Screen
+![alt text](Scan.jpg)
+
+5) Hasil dan juga terdapat tombol home dan tts
+![alt text](HasildanTTS.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
