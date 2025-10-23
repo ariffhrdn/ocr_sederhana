@@ -7,28 +7,28 @@ Dokumen ini mencatat perubahan dan implementasi fitur spesifik yang telah ditamb
 1. Perubahan pada lib/screens/home_screen.dart
 
     Pengubahan Navigasi Home
-![alt text](<Soal 1 Poin 1.png>)
+![alt text](<Soal_1_Poin_1.png>)
 
 2. Perubahan pada lib/screens/scan_screen.dart
      Custom Loading Screen di ScanScreen
 
      Spesifikasi Pesan Error
-![alt text](<Soal 2 Poin 1.png>)
+![alt text](<Soal_2_Poin_1.png>)
 
 3. Perubahan pada lib/screens/result_screen.dart
 
     Teks Utuh dan Navigasi Balik
-![alt text](<Soal 1 Poin 2.png>)
+![alt text](<Soal_1_Poin_2.png>)
 
     Konversi Widget dan Inisialisasi
 
     Fungsionalitas Pembacaan
-![alt text](<Soal 3 Poin 2 dan 3.png>)
+![alt text](<Soal_3_Poin_2_dan_3.png>)
 
 4. Perubahan pada pubspec.yaml
 
     Instalasi Plugin
-![alt text](<Soal 3 Poin 1.png>)
+![alt text](<Soal_3_Poin_1.png>)
 
 ## Getting Started
 
